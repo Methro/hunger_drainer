@@ -1,7 +1,7 @@
 # Hunger Drainer
 
 ## Description
-The Hunger Drainer is a custom item for the that allows you to drain the hunger bar of other players to zero. Use it strategically to deplete the food reserves of your opponents and make them more vulnerable.
+The Hunger Drainer is a custom item for Mineclone 2 the that allows you to drain the hunger bar of other players to zero. Use it strategically to deplete the food reserves of your opponents and make them more vulnerable.
 
 ## Function
 When you use the Hunger Drainer on another player, it will set their hunger value to the minimum (0), leaving them unable to restore their health or perform strenuous activities until they eat again.
