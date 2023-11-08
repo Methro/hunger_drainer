@@ -19,4 +19,4 @@ To use the Hunger Drainer, simply hiy on the player you want to target. The item
 The Hunger Drainer has a cooldown time to prevent spamming. You must wait for the cooldown to expire before using it again.
 
 ## License
-This Hunger Drainer mod is open-source software licensed under the MIT License. You are free to modify and distribute it. See the `LICENSE` file for more details.
+This Hunger Drainer mod is open-source software licensed under the GPL-3.0 License. You are free to modify and distribute it. See the `LICENSE` file for more details.
